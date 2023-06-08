@@ -8,6 +8,6 @@
  * from there you can run the program and it will make a backup every time you run it.
 
 ## Tips
- * The first time you run it, it will create the back up folder. IT MIGHT NOT BACK IT UP ON FIRST RUN! 
+ * The first time you run it, it will create the back up folder, and while making the folder it might not back it up on the first run. 
       * so best Practice is to run it twice when you first set it up and double check that it has made a backup and its all working! 
  * the backups folder will be called "EldenRingBackups", and it will be found in the same folder we just navigated to.
