@@ -3,7 +3,7 @@
 
  ### how to properly install it
  * go to you files and navigate to %appdata%
- * then place the program files "Create_ElderRing_Backup" and "Elder_Ring_Backup_Script" in that folder "Roaming"
+ * then place the program files "Create_ElderRing_Backup.bat" and "Elder_Ring_Backup_Script.sh" in that folder "Roaming"
  * next to make it easier on your self to back up, right click and create a shortcut for "Create_ElderRing_Backup" Bat file and put it on your decktop to be able to run it without going to that folder every time.
  * from there you can run the program and it will make a backup every time you run it.
 
